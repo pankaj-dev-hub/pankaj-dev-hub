@@ -41,10 +41,11 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj-dev-hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
 </p>
 
-### 🏆 Achievements
+
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pankaj-dev-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=pankaj-dev-hub&theme=tokyonight&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
 </p>
 
 ### 💡 What I'm Interested In
@@ -55,16 +56,19 @@
 - System design and engineering best practices
 - Developer tools and AI-assisted coding
 
-### 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/pankaj-dev-hub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
+### 🤝 Connect With Me
 
 <p align="center">
-  <i>"Great software is built through thoughtful design, continuous learning, and collaboration."</i>
+  <a href="https://www.linkedin.com/in/pankaj-solanki-464b38168/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect with me on LinkedIn"
+    />
+  </a>
+  <a href="https://github.com/pankaj-dev-hub">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Follow me on GitHub"
+    />
+  </a>
 </p>
